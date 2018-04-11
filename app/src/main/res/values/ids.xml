@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="radiogroup1"/>
+    <item type="id" name="answer1A" />
+    <item type="id" name="answer1B" />
+    <item type="id" name="answer1C" />
+    <item type="id" name="answer1D" />
+    <item type="id" name="answer2A" />
+    <item type="id" name="answer2B" />
+    <item type="id" name="answer2C" />
+    <item type="id" name="answer2D" />
+    <item type="id" name="radiogroup3"/>
+    <item type="id" name="answer3A" />
+    <item type="id" name="answer3B" />
+    <item type="id" name="answer4" />
+</resources>
